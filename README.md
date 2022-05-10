@@ -17,4 +17,11 @@ The user has to guess the 5 letter words
 
 At the end of the game, statistics are also displayed.
 
+An option to continue te game or exit game is also provided.
+
+![image](https://user-images.githubusercontent.com/56534338/167665200-47ed147c-e729-4301-b1c4-1c7226ccc57f.png)
+
+
+
+
 
